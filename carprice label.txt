@@ -1,0 +1,170 @@
+CarName :-
+1-alfa-romero giulia
+2-alfa-romero Quadrifoglio
+3-alfa-romero stelvio
+4-audi 100ls
+5-audi 4000
+6-audi 5000
+7-audi 5000s (diesel)
+8-audi fox
+9-bmw 320i
+10-bmw x1
+11-bmw x3
+12-bmw x4
+13-bmw x5
+14-bmw z4
+15-buick century
+16-buick century luxus (sw)
+17-buick century special
+18-buick electra 225 custom
+19-buick opel isuzu deluxe
+20-buick regal sport coupe (turbo)
+21-buick skyhawk
+22-buick skylark
+23-chevrolet impala
+24-chevrolet monte carlo
+25-chevrolet vega 2300
+26-dodge challenger se
+27-dodge colt (sw)
+28-dodge colt hardtop
+29-dodge coronet custom
+30-dodge coronet custom (sw)
+31-dodge d200
+32-dodge dart custom
+33-dodge monaco (sw)
+34-dodge rampage
+35-honda accord
+36-honda accord cvc
+37-honda accord lx
+38-honda civic
+39-honda civic (auto)
+40-honda civic 1300
+41-honda civic 1500 gl
+42-honda civic cvcc
+43-honda prelude
+44-isuzu D-Max 
+45-isuzu D-Max V-Cross
+46-isuzu MU-X
+47-jaguar xf
+48-jaguar xj
+49-jaguar xk
+50-mazda 626
+51-mazda glc
+52-mazda glc 4
+53-mazda glc custom
+54-mazda glc custom l
+55-mazda glc deluxe
+56-mazda rx2 coupe
+57-mazda rx3
+58-mazda rx-4
+59-mazda rx-7 gs
+60-mercury cougar
+61-mitsubishi g4
+62-mitsubishi lancer
+63-mitsubishi mirage
+64-mitsubishi mirage g4
+65-mitsubishi montero
+66-mitsubishi outlander
+67-mitsubishi pajero
+68-nissan clipper
+69-nissan dayz
+70-nissan fuga
+71-nissan gt-r
+72-nissan juke
+73-nissan kicks
+74-nissan latio
+75-nissan leaf
+76-nissan note
+77-nissan nv200
+78-nissan otti
+79-nissan rogue
+80-nissan teana
+81-nissan titan
+82-Nissan versa
+83-peugeot 304
+84-peugeot 504
+85-peugeot 504 (sw)
+86-peugeot 505s turbo diesel
+87-peugeot 604sl
+88-plymouth cricket
+89-plymouth duster
+90-plymouth fury gran sedan
+91-plymouth fury iii
+92-plymouth satellite custom (sw)
+93-plymouth valiant
+94-porcshce panamera
+95-porsche boxter
+96-porsche cayenne
+97-porsche macan
+98-renault 12tl
+99-renault 5 gtl
+100-saab 99e
+101-saab 99gle
+102-saab 99le
+103-subaru
+104-subaru baja
+105-subaru brz
+106-subaru dl
+107-subaru r1
+108-subaru r2
+109-subaru trezia
+110-subaru tribeca
+111-toyota carina
+112-toyota celica gt
+113-toyota celica gt liftback
+114-toyota corolla
+115-toyota corolla 1200
+116-toyota corolla 1600 (sw)
+117-toyota corolla liftback
+118-toyota corolla tercel
+119-toyota corona
+120-toyota corona hardtop
+121-toyota corona liftback
+122-toyota corona mark ii
+123-toyota cressida
+124-toyota mark ii
+125-toyota starlet
+126-toyota tercel
+127-vokswagen rabbit
+128-volkswagen 1131 deluxe sedan
+129-volkswagen 411 (sw)
+130-volkswagen dasher
+131-volkswagen model 111
+132-volkswagen rabbit
+133-volkswagen rabbit custom
+134-volkswagen super beetle
+135-volkswagen type 3
+136-volvo 144ea
+137-volvo 145e (sw)
+138-volvo 244dl
+139-volvo 245
+140-volvo 246
+141-volvo 264gl
+142-volvo diesel
+
+
+
+
+fueltype - 1-gas, 2-diesel
+aspiration - 1-std,2-turbo
+doornumber - 2-two, 4-four
+carbody - 1-hatchback, 2-sedan, 3-wagon,4-hardtop, 5-convertible
+drivewheel - 1- fwd, 2-rwd, 3-4wd
+enginelocation - 1-front, 2-rear
+wheelbase -
+carlength -
+carwidth -
+carheight -
+curbweight -
+enginetype - 1-ohc , 2-ohcf , 3-l , 4-dohc, 5-ohcv, 5-rotor
+cylindernumber - 2-two, 3-three, 4-four, 5-five, 6-six ,8-eight, 12-twelve
+enginesize -
+fuelsystem - 1-1bbl, 2-2bbl, 3-idi, 4-spdi, 5-mpfi, 6-4bbl, 7-spfi,8-mfi
+boreratio -
+stroke -
+compressionratio - 
+horsepower -
+peakrpm -
+citympg -
+highwaympg -
+price -
